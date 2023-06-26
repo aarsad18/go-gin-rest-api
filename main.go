@@ -2,5 +2,5 @@ package main
 
 func main() {
 	println("hello boskyu")
-	println("try gpg")
+	println("try gpg again")
 }
