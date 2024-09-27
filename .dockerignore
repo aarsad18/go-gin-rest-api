@@ -1,0 +1,6 @@
+# Ignore the binary
+/health-check
+# Ignore other unnecessary files
+*.go
+*.mod
+*.sum
